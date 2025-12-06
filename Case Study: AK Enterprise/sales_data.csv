@@ -1,0 +1,1001 @@
+Order ID,Order Date,Region,Product Category,Sales Channel,Sales,Revenue,Profit,Quantity,Discount
+1001,1/10/2023,North,Electronics,In-Store,2902.78,3129.92,25.63,91,26.48
+1002,25/11/2024,South,Electronics,In-Store,4046.62,4309.67,194.78,57,27.66
+1003,18/6/2024,East,Office Supplies,Online,3824.79,4259.34,170.28,27,3.14
+1004,13/3/2024,East,Electronics,In-Store,854.11,1057.11,11.33,75,3.86
+1005,24/4/2023,East,Electronics,Online,831.32,1272.66,377.32,5,16.71
+1006,24/4/2023,South,Furniture,In-Store,1414.05,1503.71,-199.79,71,26.82
+1007,12/2/2023,South,Electronics,In-Store,1869.27,2268.83,234.42,83,29.23
+1008,24/9/2024,East,Furniture,Online,2101.43,2532.83,390.99,57,1.39
+1009,14/3/2024,North,Electronics,In-Store,3430.52,3562.34,-63.69,93,10.67
+1010,31/5/2024,South,Electronics,Online,377.73,621.39,152.76,15,6.39
+1011,16/1/2023,North,Electronics,Online,269.9,394.37,-120.56,99,22.68
+1012,9/12/2024,West,Electronics,Online,2020.36,2388.33,118.98,76,19.21
+1013,30/8/2024,West,Office Supplies,Online,3516.1,3807.01,-3.2,30,3.6
+1014,5/6/2023,North,Electronics,Online,1047.83,1383.73,175.38,20,14.51
+1015,13/5/2023,East,Furniture,In-Store,3243.37,3381.79,-8.97,37,20.56
+1016,14/5/2023,West,Electronics,Online,1373.16,1518.45,-85.68,3,23.37
+1017,11/8/2023,North,Electronics,In-Store,4441.82,4510.49,11.58,73,0.6
+1018,19/1/2024,South,Office Supplies,Online,4488.88,4683.81,21.79,41,26.71
+1019,12/11/2023,West,Electronics,Online,1556.71,1858.6,128.94,39,17.08
+1020,1/8/2023,North,Furniture,In-Store,1226.97,1663.04,391.02,26,24.36
+1021,22/3/2024,South,Office Supplies,Online,2115.39,2465.51,213.08,2,24.24
+1022,12/4/2023,North,Furniture,Online,1278.6,1524.53,-12.99,23,5.7
+1023,2/8/2023,West,Office Supplies,In-Store,3394.68,3873.58,219.18,23,3.31
+1024,25/9/2023,West,Electronics,Online,4147.72,4521.38,325.87,85,21.64
+1025,29/11/2023,West,Electronics,Online,3398.15,3866.72,423.17,16,4.69
+1026,27/7/2024,South,Electronics,Online,4139.32,4426.73,193.86,9,25.5
+1027,26/5/2023,East,Furniture,In-Store,2045.26,2211.77,-98.42,13,21.79
+1028,11/1/2024,East,Office Supplies,In-Store,865.95,939.72,17.68,28,25.25
+1029,8/3/2024,North,Electronics,In-Store,3715.96,4092.7,155.14,27,8.97
+1030,3/2/2023,East,Furniture,In-Store,1866.33,1970.92,56.26,51,9.5
+1031,19/3/2024,North,Electronics,Online,3389.23,3575.48,-8.23,64,20.14
+1032,5/5/2023,South,Furniture,Online,1426.16,1715.77,169.91,52,0.94
+1033,17/2/2023,North,Electronics,In-Store,498.03,802.02,63.09,81,21.79
+1034,23/11/2024,North,Office Supplies,Online,4963.65,5283.91,234.83,38,25.07
+1035,5/12/2024,North,Furniture,Online,865.39,990.2,-74.17,65,12.45
+1036,13/8/2024,South,Electronics,Online,4943.26,5164.14,134.89,18,22.95
+1037,11/8/2023,North,Electronics,Online,4888.67,5216.41,107.92,63,5.24
+1038,13/3/2023,East,Electronics,In-Store,3989.71,4476.13,221.79,51,9.67
+1039,14/5/2024,North,Electronics,Online,3331.17,3708.6,321.93,9,29.23
+1040,18/11/2023,North,Electronics,Online,2931.25,3396.42,202.52,13,29.59
+1041,31/3/2023,South,Office Supplies,Online,4343.9,4736.9,206.8,40,15.38
+1042,28/12/2023,East,Furniture,In-Store,1518.25,1834.52,260.68,55,28.03
+1043,26/1/2023,North,Furniture,Online,2391.64,2528.05,-3.3,79,15.68
+1044,25/10/2024,South,Electronics,Online,3135.01,3485.02,284.97,43,8.75
+1045,8/7/2023,East,Office Supplies,In-Store,2114.83,2445.35,114.42,44,8.01
+1046,28/4/2024,South,Furniture,In-Store,2194.68,2515.79,88.63,68,27.89
+1047,16/8/2023,North,Electronics,Online,1718.39,1988.79,220.78,33,5.17
+1048,15/1/2024,North,Furniture,Online,2864.74,3152.64,126.18,24,17.39
+1049,4/2/2024,East,Furniture,Online,4267.82,4468.32,-47.6,36,16.67
+1050,15/5/2023,North,Electronics,Online,1087.49,1371.18,1.56,10,22.19
+1051,8/12/2024,East,Electronics,Online,4678.72,4817.62,-24.89,20,14.98
+1052,19/7/2024,South,Electronics,Online,3476.53,3888.86,126.25,75,8.17
+1053,16/11/2024,West,Electronics,Online,4134.04,4267.64,-36.39,12,5.08
+1054,15/10/2024,East,Office Supplies,Online,2825.33,2913.56,-42.14,62,18.62
+1055,12/3/2024,West,Office Supplies,In-Store,3919.63,4165.94,-11.19,18,21.57
+1056,3/11/2024,North,Furniture,In-Store,179.38,525.62,188.2,94,17.09
+1057,6/3/2023,East,Electronics,In-Store,4110.06,4357.03,94.84,63,22.15
+1058,24/5/2023,South,Electronics,Online,296.68,471.22,17.25,84,4.25
+1059,3/2/2023,South,Furniture,Online,4460.58,4761.76,44.08,25,26.47
+1060,26/8/2023,South,Furniture,In-Store,4960.62,5166.77,-46.79,12,17.47
+1061,11/10/2023,East,Electronics,Online,1540.93,2010.72,336.8,21,3.81
+1062,18/7/2023,West,Furniture,Online,1130.56,1595.75,351.87,25,13.86
+1063,27/8/2024,East,Office Supplies,Online,3850.28,4126.35,118.33,11,25.34
+1064,18/9/2023,South,Electronics,In-Store,1339.83,1537.38,17.17,64,26.93
+1065,25/7/2023,South,Electronics,In-Store,4341.26,4722.97,294.98,73,7.94
+1066,1/2/2024,East,Furniture,Online,603.93,670.45,-175.79,50,21.34
+1067,13/4/2023,North,Electronics,Online,717.18,980.83,107.43,62,3
+1068,8/8/2024,North,Electronics,In-Store,4897.84,5099.19,87.82,89,1.01
+1069,24/2/2023,North,Electronics,Online,3401.81,3866.05,414.33,99,16.81
+1070,21/12/2024,North,Electronics,In-Store,4249.75,4305.15,-31.48,96,20.84
+1071,17/7/2024,North,Furniture,In-Store,1689.21,1987.98,12.97,49,23.87
+1072,26/5/2023,North,Furniture,In-Store,3414.77,3798.07,277.87,14,10.21
+1073,5/1/2023,North,Electronics,Online,3011.78,3280.04,200.98,1,0.2
+1074,18/8/2024,North,Office Supplies,Online,3055.44,3143.87,-60.56,81,14.39
+1075,31/5/2024,West,Office Supplies,Online,3444.41,3932.02,381.63,25,0.48
+1076,16/6/2024,South,Office Supplies,In-Store,2919.26,3202.36,253.26,59,2.76
+1077,17/7/2024,North,Electronics,In-Store,2202.41,2528.79,215.9,72,9.8
+1078,24/2/2023,South,Electronics,Online,1452.02,1608.49,-15.88,69,13.12
+1079,19/9/2023,North,Office Supplies,Online,3866.05,4133.62,93.09,5,8.38
+1080,26/3/2023,West,Furniture,In-Store,1208.73,1451.85,123.28,99,17.46
+1081,22/9/2024,East,Electronics,In-Store,3492.54,3576.24,-61.54,19,1.66
+1082,31/3/2024,North,Electronics,In-Store,1243.33,1341.1,-192.58,23,4.34
+1083,30/8/2023,South,Electronics,Online,3164.12,3590.98,301.2,9,20.86
+1084,16/2/2023,East,Office Supplies,Online,3760.68,3918.6,65.62,94,4.26
+1085,16/8/2023,West,Furniture,In-Store,1171.7,1309.43,49.56,50,19.19
+1086,26/8/2023,South,Electronics,In-Store,393.72,670.93,129.04,16,1.64
+1087,16/6/2024,South,Electronics,Online,741.77,1137.71,163.27,33,12.22
+1088,10/4/2024,North,Furniture,Online,3069.39,3147.27,0.2,2,5.32
+1089,9/10/2024,West,Office Supplies,Online,4262.29,4571.85,90.96,14,3.29
+1090,11/12/2023,North,Electronics,Online,320.48,424.12,77.72,1,17.01
+1091,29/3/2023,West,Furniture,Online,3697.34,3763.75,-70.89,90,27.85
+1092,4/6/2024,South,Office Supplies,In-Store,1772.46,1846.19,-163.51,58,1.64
+1093,9/7/2024,South,Electronics,Online,2444.79,2870.16,310.52,89,12.65
+1094,14/2/2024,South,Furniture,In-Store,4651.41,4754.5,-74.76,16,21.23
+1095,16/7/2024,North,Electronics,Online,1726.66,1796.98,-7.07,79,13.88
+1096,27/12/2023,North,Furniture,In-Store,2380.15,2627.2,19.29,90,24.19
+1097,17/1/2024,North,Furniture,In-Store,167.04,596.84,395.16,47,5.39
+1098,9/11/2023,North,Furniture,Online,499.83,667.91,-90.63,44,28.79
+1099,19/1/2023,East,Furniture,Online,1367.1,1606.87,164.28,80,11.55
+1100,20/3/2023,North,Electronics,Online,236.48,304.45,-196.86,14,10.25
+1101,23/1/2023,North,Office Supplies,Online,3193.74,3445.83,133.38,93,26.24
+1102,9/4/2024,West,Furniture,In-Store,2189.35,2499.28,87.58,24,16.92
+1103,18/8/2023,East,Electronics,In-Store,2785.91,3092.82,197.53,55,15.49
+1104,7/1/2024,West,Furniture,Online,955.77,1155.36,-74.07,15,21.81
+1105,24/10/2024,West,Furniture,Online,1550.07,1742.06,136.53,83,17.4
+1106,1/7/2023,North,Electronics,Online,3352.74,3450.72,27.99,72,4.88
+1107,27/10/2023,North,Office Supplies,In-Store,4829.98,5045.04,57.01,34,20.23
+1108,5/7/2024,East,Office Supplies,Online,347.04,441.81,51.83,2,4
+1109,17/6/2023,South,Electronics,Online,4462.88,4857.85,320.1,27,24.18
+1110,26/2/2023,North,Office Supplies,In-Store,2926.72,3411.54,200.57,74,29.69
+1111,31/7/2023,East,Electronics,In-Store,2863.21,3349.74,193.11,99,11.32
+1112,28/4/2023,North,Electronics,Online,2551.36,2990.64,313.93,87,13.34
+1113,9/11/2024,North,Electronics,In-Store,440.03,760.39,41.84,72,1.39
+1114,12/8/2024,South,Office Supplies,Online,540.4,905.79,192.84,92,0.41
+1115,7/4/2024,South,Furniture,Online,3044.47,3222.81,82.81,23,27.64
+1116,28/9/2024,South,Electronics,In-Store,1770.7,2104.55,117.18,68,3.86
+1117,9/8/2024,North,Electronics,In-Store,4594.61,4849.65,50.55,14,13.37
+1118,17/5/2023,East,Furniture,Online,2092.29,2359.2,-30.05,63,24.46
+1119,13/10/2024,North,Electronics,Online,802.08,1193.08,296.79,93,26.68
+1120,29/1/2024,North,Office Supplies,Online,3602.12,3778.98,-31.32,65,15.58
+1121,12/8/2024,East,Office Supplies,Online,1537.43,1730.55,158.55,68,16.95
+1122,16/10/2024,West,Furniture,Online,2674.8,3140.89,414.27,63,20.09
+1123,21/8/2023,East,Office Supplies,Online,3519.38,3594.68,54.2,96,28.84
+1124,22/3/2023,East,Electronics,Online,4511.29,4779.83,-31.31,97,18.08
+1125,16/6/2023,South,Office Supplies,In-Store,3981.74,4442.5,216.12,90,16.78
+1126,8/11/2023,South,Furniture,In-Store,3414.17,3738.83,84.38,81,0.44
+1127,20/8/2024,North,Furniture,In-Store,3430.2,3726.08,133.16,87,2.43
+1128,20/9/2024,South,Electronics,Online,4735.03,4897.41,58.36,64,17.32
+1129,6/1/2023,North,Office Supplies,In-Store,1549.54,1754.01,142.12,32,28.09
+1130,8/1/2024,North,Electronics,In-Store,105.45,538.87,333.71,79,26
+1131,1/11/2023,East,Electronics,In-Store,1432.58,1734.23,176.38,13,29.48
+1132,12/6/2023,South,Electronics,In-Store,1167.67,1449.3,49.86,66,15.84
+1133,29/3/2023,North,Furniture,In-Store,3342.99,3437.8,-76.3,19,23.64
+1134,4/9/2023,North,Furniture,Online,3205.19,3262.4,15.51,24,25.21
+1135,19/11/2024,South,Furniture,Online,3007.96,3491.62,458.61,88,19.44
+1136,24/8/2023,North,Office Supplies,In-Store,179.59,399.23,170.99,11,10.16
+1137,14/1/2024,East,Electronics,In-Store,3671.01,3992.46,186.51,59,14.1
+1138,28/5/2024,South,Furniture,In-Store,1685.3,1771.17,-195.42,86,25.74
+1139,23/9/2023,South,Electronics,Online,3358.77,3716.17,158.93,15,8.96
+1140,10/12/2024,South,Office Supplies,Online,2827.23,3296.89,225.15,10,27.71
+1141,3/12/2024,East,Office Supplies,Online,1779.38,2088.43,158.47,41,6.89
+1142,3/7/2023,North,Furniture,In-Store,759.42,866.17,-14.52,27,22.49
+1143,29/12/2023,South,Furniture,Online,562.65,874.42,261.42,60,18.92
+1144,8/8/2023,South,Electronics,Online,4174.44,4569.3,129.6,73,22.49
+1145,27/7/2023,North,Electronics,Online,4600.15,4833.04,-6.39,52,13.12
+1146,27/1/2023,East,Office Supplies,Online,3283.96,3729.89,378.86,28,27.98
+1147,20/3/2024,East,Electronics,In-Store,606.83,948.74,178.48,65,18.97
+1148,2/1/2024,South,Electronics,In-Store,2069.93,2524.59,298.2,17,8.65
+1149,7/2/2023,East,Electronics,In-Store,3671.8,4002.38,135.55,95,19.15
+1150,23/7/2023,East,Office Supplies,Online,3921.12,4030.2,-175.85,44,8.6
+1151,25/10/2024,East,Electronics,In-Store,679.27,868.63,7.02,10,8.81
+1152,24/6/2023,East,Electronics,Online,100.15,240.96,-30.45,63,11.99
+1153,16/4/2023,South,Furniture,In-Store,3589.47,4048.44,424.88,93,25.57
+1154,24/12/2023,South,Office Supplies,Online,1847.32,2239.5,354.57,82,15.01
+1155,20/12/2024,South,Electronics,Online,1346.96,1701.34,281.92,47,20.37
+1156,26/6/2023,East,Electronics,In-Store,163.2,348.63,156.34,38,11.76
+1157,5/5/2024,North,Electronics,In-Store,2747.47,2880.29,-95.32,70,7.91
+1158,9/7/2024,East,Electronics,Online,4270.64,4661.04,167.87,76,28.64
+1159,23/6/2023,East,Electronics,In-Store,4792.4,5055.77,205.27,53,18.11
+1160,15/6/2024,North,Furniture,Online,2872.15,3023.76,-102.49,78,28.02
+1161,26/9/2023,East,Furniture,Online,2620.86,2948.34,264.14,44,6.1
+1162,6/4/2024,North,Furniture,Online,516.78,584.93,-36.18,74,4.41
+1163,7/4/2024,North,Electronics,Online,2789.48,2986.26,107.07,54,25.67
+1164,27/1/2024,East,Office Supplies,Online,1961.9,2222.75,136.6,20,20.43
+1165,7/3/2023,North,Electronics,Online,3074.96,3191.54,25.27,79,5.6
+1166,1/9/2024,East,Office Supplies,Online,2004.76,2497.85,336.18,31,8.08
+1167,23/8/2023,East,Furniture,In-Store,1277.47,1421.56,10.02,7,24.02
+1168,17/5/2023,South,Electronics,Online,565.33,673.99,-187.58,58,13.62
+1169,30/1/2023,North,Furniture,In-Store,1643.1,1784.69,105.93,10,20.12
+1170,7/3/2024,North,Electronics,Online,573.56,969.64,336.27,10,9.55
+1171,9/5/2024,South,Furniture,In-Store,966.8,1208.28,206.69,39,11.44
+1172,13/1/2023,West,Electronics,Online,4937.95,5242.39,109.2,28,29.72
+1173,9/1/2024,South,Electronics,Online,2276.11,2335.56,24.19,30,7.43
+1174,15/6/2023,North,Office Supplies,Online,2706.17,2771.66,-188.71,37,15.19
+1175,15/4/2024,South,Electronics,Online,4380.73,4631.35,87.28,67,25.33
+1176,8/5/2023,South,Office Supplies,Online,4978.29,5395.78,249.93,43,7.18
+1177,19/5/2024,East,Electronics,In-Store,2955.3,3403.66,271.11,79,12.46
+1178,10/10/2023,North,Furniture,In-Store,4081.12,4170.14,21.19,85,18.45
+1179,14/11/2024,East,Furniture,In-Store,1702.01,1994.27,216.91,52,14.44
+1180,11/4/2023,South,Furniture,In-Store,1598.15,2059.1,351.68,56,13.79
+1181,6/9/2023,West,Electronics,Online,2073.25,2297.84,38.41,76,10.88
+1182,24/3/2023,North,Electronics,Online,3395.29,3818.59,344.47,68,17.6
+1183,6/11/2024,South,Electronics,Online,3442.74,3552.9,57.59,9,18.73
+1184,2/10/2024,West,Electronics,Online,1644.67,2115.6,179.3,92,19.6
+1185,8/7/2023,North,Furniture,Online,752.73,1140.87,361.99,23,2.11
+1186,26/4/2024,West,Office Supplies,Online,3198.74,3672.34,228.84,63,18.93
+1187,19/8/2024,South,Office Supplies,Online,728.8,1083.28,113.83,61,28.6
+1188,10/2/2024,North,Furniture,Online,2934.61,3148.14,110.31,40,16.23
+1189,22/1/2024,North,Furniture,In-Store,3497.77,3969.95,414.2,44,21.46
+1190,26/6/2023,East,Furniture,In-Store,3533,3707.01,113.23,86,16.7
+1191,9/3/2023,North,Electronics,Online,3792.01,3991.49,-15.8,24,25.64
+1192,16/10/2024,South,Office Supplies,In-Store,4377.01,4742.37,165.37,51,27.89
+1193,19/10/2024,North,Furniture,In-Store,2549.8,2944.19,155.22,58,5.53
+1194,7/4/2024,South,Furniture,Online,3678.22,4146.45,185.74,90,13.11
+1195,5/9/2023,North,Electronics,Online,3133.95,3276.11,-71.58,94,11.77
+1196,12/9/2023,East,Electronics,Online,1014.54,1423.64,345.46,33,12.16
+1197,13/6/2024,West,Electronics,In-Store,225.88,608.23,294.19,16,3.77
+1198,16/10/2024,West,Office Supplies,In-Store,1494.25,1572.96,-177.1,22,24.41
+1199,9/10/2024,East,Furniture,Online,2270.87,2495.12,145.64,57,1.07
+1200,23/7/2024,North,Electronics,Online,3123.82,3301.06,136.93,62,15.85
+1201,13/4/2024,East,Office Supplies,Online,4264.8,4451.82,-29.9,82,19.86
+1202,3/3/2023,North,Electronics,Online,1061.6,1553.93,359.62,71,6.22
+1203,28/4/2023,North,Electronics,Online,715.19,1054.44,61.64,90,27.18
+1204,17/10/2024,North,Electronics,In-Store,4821.05,5194,170.88,72,25.16
+1205,18/3/2024,South,Furniture,In-Store,629.42,1118.9,444.16,70,14.13
+1206,7/1/2023,East,Office Supplies,In-Store,2444.61,2664.35,-65.66,30,12.33
+1207,16/3/2023,South,Electronics,In-Store,2969.26,3380.09,318.43,23,7.1
+1208,29/4/2024,South,Office Supplies,In-Store,2752.73,2998.27,131.12,32,21.9
+1209,4/1/2023,North,Electronics,Online,521.56,962.85,308.66,86,3.95
+1210,28/4/2023,West,Office Supplies,In-Store,379.43,510.73,96.96,57,20.41
+1211,5/2/2024,South,Furniture,Online,616.87,1093.33,317.44,9,25.27
+1212,20/5/2024,South,Office Supplies,In-Store,2969.38,3117.83,93.92,31,6.85
+1213,20/4/2024,North,Electronics,Online,2767.29,2964.09,64.53,71,25.99
+1214,13/6/2023,East,Office Supplies,In-Store,1245.33,1635.62,272.09,9,1
+1215,3/6/2024,South,Furniture,Online,3225.09,3452.28,-9.21,13,27.38
+1216,23/6/2023,North,Electronics,Online,4118.33,4442.03,78.81,58,3.55
+1217,26/8/2023,North,Office Supplies,Online,303.74,553.8,187.1,3,19.37
+1218,28/6/2024,South,Electronics,Online,2540.84,2924.91,261.44,35,7.5
+1219,19/4/2024,South,Office Supplies,In-Store,3477.62,3630.37,28.21,97,25.1
+1220,11/9/2024,North,Electronics,In-Store,1336.33,1412.64,13.92,21,15.37
+1221,25/4/2024,West,Furniture,Online,1608.08,1793.05,-58.6,64,4.06
+1222,19/2/2024,North,Furniture,Online,3106.83,3370.27,45.42,95,17.13
+1223,10/3/2023,South,Electronics,Online,4499.88,4625.49,52.3,52,12.24
+1224,26/9/2023,West,Electronics,Online,4068.63,4278.29,86.98,34,19.84
+1225,13/7/2023,South,Electronics,Online,2957.34,3187.33,180.36,96,26.46
+1226,28/6/2023,South,Electronics,In-Store,3678.09,3753.92,-120.07,35,12.28
+1227,11/12/2024,North,Electronics,Online,1887.63,2200.12,258.51,15,8.7
+1228,14/10/2023,North,Furniture,Online,3240.73,3688.68,151.89,96,0.44
+1229,13/10/2024,West,Electronics,Online,2384.29,2502.57,-120.31,6,17.25
+1230,5/4/2024,South,Electronics,Online,1030.69,1349.7,189.74,85,12.07
+1231,3/8/2024,East,Furniture,Online,3538.52,3887.65,167.13,97,11.24
+1232,2/1/2024,North,Electronics,In-Store,2826.68,3065.38,-36.48,32,5.49
+1233,26/2/2024,North,Office Supplies,Online,1857.25,2222.74,190.34,52,12.9
+1234,26/12/2023,North,Office Supplies,Online,4565.56,4800.39,165.97,83,29.53
+1235,23/5/2023,South,Furniture,Online,202.58,479.67,151.05,97,8.93
+1236,11/6/2024,North,Furniture,Online,1647.29,1700.6,-202.77,28,17.99
+1237,24/7/2023,East,Office Supplies,Online,378.72,739.99,160.89,95,23.29
+1238,18/1/2023,South,Electronics,In-Store,3855.98,4203.58,145.4,85,22.47
+1239,16/4/2024,West,Electronics,In-Store,3540.33,3607.61,-195.43,98,9.86
+1240,10/5/2023,North,Electronics,Online,1723.63,1939.34,-54.6,64,18.33
+1241,17/11/2024,East,Furniture,Online,3410.75,3901.31,213.02,79,26.14
+1242,27/11/2024,East,Electronics,Online,2040.09,2279.42,192.77,78,0.46
+1243,29/10/2024,East,Furniture,Online,3805.64,4081.52,103.52,19,13.07
+1244,28/9/2023,East,Office Supplies,In-Store,2325.5,2784.97,232.13,15,6.73
+1245,12/1/2023,East,Office Supplies,In-Store,2120.17,2492.94,140.83,6,11.66
+1246,8/11/2024,South,Furniture,Online,4680.18,4992.11,122.05,73,12.48
+1247,9/11/2023,North,Electronics,Online,1329.31,1738.32,342.31,84,22.4
+1248,6/12/2024,North,Office Supplies,Online,690.19,1129.15,195.68,98,2.81
+1249,4/12/2024,West,Furniture,In-Store,2964.26,3219.86,33.97,38,15.38
+1250,14/9/2024,South,Electronics,In-Store,4849.68,5113.48,219.68,26,16.93
+1251,3/8/2023,East,Electronics,Online,1951.41,2175.13,73.85,82,14.82
+1252,9/10/2023,South,Office Supplies,Online,403.98,889,416.31,92,21.96
+1253,13/9/2024,North,Furniture,In-Store,1762.6,2126.32,249.23,51,11.51
+1254,20/8/2023,North,Office Supplies,Online,2579.07,2666.52,62.39,73,28.35
+1255,4/5/2023,South,Office Supplies,Online,893.42,1331.75,306.24,96,14.45
+1256,11/2/2024,South,Furniture,Online,3324.7,3590.95,92.28,53,17.14
+1257,14/11/2024,North,Furniture,In-Store,4988.97,5069.91,-112.54,56,24.77
+1258,23/5/2024,South,Electronics,Online,2313.52,2610.89,91.59,59,8.26
+1259,21/2/2024,North,Electronics,Online,1838.17,2075.89,-16.44,70,2.26
+1260,12/3/2023,South,Electronics,In-Store,2063.45,2508.44,364.66,78,21.23
+1261,24/3/2024,North,Furniture,Online,664.22,806.02,88.07,92,14.49
+1262,23/12/2024,East,Furniture,Online,4428.04,4849.95,163.48,58,26.9
+1263,13/4/2023,North,Office Supplies,Online,2132.65,2433.61,237.11,88,29.48
+1264,14/1/2024,South,Electronics,Online,1997.64,2072.21,-218.36,13,11.97
+1265,2/10/2024,North,Furniture,In-Store,3332.48,3819.81,231.42,43,12.46
+1266,24/6/2024,North,Furniture,Online,2265.96,2546.64,120.43,76,12.24
+1267,23/5/2024,North,Furniture,Online,3276.34,3457.23,-113.91,51,9.74
+1268,27/5/2024,South,Furniture,Online,401.09,662.32,213.96,19,23.45
+1269,20/9/2023,South,Electronics,In-Store,4087.24,4523.28,331.18,21,22.77
+1270,3/8/2023,North,Furniture,In-Store,4708.47,4895.68,-11.49,91,14.36
+1271,13/8/2024,South,Electronics,Online,3278.95,3415.65,18.7,83,1.34
+1272,14/8/2024,East,Electronics,Online,4777.37,4885.45,-171.86,24,9.29
+1273,24/9/2024,East,Electronics,In-Store,842.02,1026.06,145.66,26,8.77
+1274,28/10/2024,North,Furniture,Online,2439.34,2840.36,227.18,45,24.33
+1275,9/1/2024,South,Office Supplies,In-Store,3048.85,3311.08,76.79,28,2.63
+1276,2/1/2024,North,Furniture,In-Store,2950.51,3102.88,-50.39,82,24.17
+1277,5/8/2024,North,Furniture,In-Store,2067.16,2191.94,33.19,29,20.08
+1278,19/4/2024,West,Furniture,Online,1756.61,1956.34,77.65,17,21.97
+1279,27/5/2024,North,Furniture,Online,721.44,1194.41,216.74,68,12.97
+1280,3/8/2024,South,Electronics,In-Store,2019.54,2223.9,129.78,44,20.39
+1281,11/10/2024,South,Electronics,Online,897.04,1391.7,243.14,61,18.27
+1282,4/9/2023,East,Electronics,Online,3698.39,3966.74,90.81,93,23.07
+1283,2/10/2023,South,Electronics,In-Store,1123.27,1253.89,-102.79,68,13.4
+1284,10/3/2023,North,Electronics,In-Store,386.97,837.98,231.2,74,14.18
+1285,27/2/2024,North,Electronics,Online,2806.59,3063.75,179.06,25,19.31
+1286,27/1/2023,South,Electronics,Online,3016.63,3385.98,190.08,95,3.24
+1287,6/12/2023,North,Office Supplies,Online,4372.37,4865.04,229.71,67,13.09
+1288,1/2/2024,North,Electronics,In-Store,2927.21,2999.79,-68.41,2,29.16
+1289,29/7/2023,North,Electronics,In-Store,1792.86,1886.37,-197.14,89,1.13
+1290,7/3/2024,North,Electronics,Online,4034.76,4408.97,227.59,49,9.48
+1291,23/1/2023,North,Furniture,Online,2747.37,2924.19,116.84,70,9.42
+1292,28/1/2023,North,Electronics,In-Store,488.47,621.41,3.9,26,19
+1293,23/8/2024,South,Electronics,Online,2872.67,2940.38,-218.77,72,3.17
+1294,20/9/2023,South,Furniture,Online,4549.29,4609.12,-49.69,99,18.86
+1295,3/4/2023,East,Electronics,In-Store,2041.93,2440.45,135.45,27,2.85
+1296,17/1/2024,North,Electronics,Online,1552,1662.5,-156.25,89,2.85
+1297,16/7/2024,North,Electronics,In-Store,803,1063.47,142.42,18,21.85
+1298,7/6/2023,North,Electronics,Online,842.08,1164.73,279.34,54,9.72
+1299,30/3/2024,South,Electronics,Online,2220.58,2463.34,19.88,1,29.32
+1300,4/3/2023,East,Electronics,In-Store,3018.83,3081.03,-45.02,61,1.12
+1301,7/2/2023,North,Office Supplies,Online,495.02,897.6,163.36,3,13.35
+1302,23/1/2024,West,Furniture,In-Store,4703.89,4758.62,-89.21,68,3.39
+1303,30/1/2024,North,Furniture,Online,3800.15,4193,236.98,41,10.54
+1304,10/4/2024,South,Electronics,Online,2974.46,3426.45,214.18,37,29.95
+1305,14/6/2024,East,Office Supplies,Online,4159.35,4404.13,117.72,51,26.67
+1306,13/12/2024,East,Electronics,Online,492.92,783.91,146.91,15,1.45
+1307,12/1/2024,East,Electronics,Online,2436.51,2701.15,139.31,8,16.9
+1308,24/8/2023,East,Furniture,Online,3187.46,3412.6,102.28,38,19.43
+1309,3/8/2024,North,Electronics,Online,4160.4,4609.74,282.07,83,6.29
+1310,17/7/2023,East,Electronics,Online,3939,4391.27,205.81,56,4.35
+1311,17/11/2023,North,Furniture,In-Store,1457.64,1658.76,79.82,47,27.13
+1312,27/2/2023,East,Office Supplies,In-Store,4710.31,5037.09,159.99,90,29.06
+1313,19/1/2023,South,Electronics,In-Store,709.29,1176.4,259.31,10,29.76
+1314,3/12/2024,East,Furniture,Online,4388.15,4871.08,387.49,78,23.69
+1315,2/9/2024,South,Office Supplies,Online,4857.61,5136.64,181.32,49,19.91
+1316,23/5/2024,South,Electronics,In-Store,968.05,1221.82,-27.59,41,10.37
+1317,26/10/2023,South,Electronics,Online,3638.12,3813.53,-47.18,83,5.14
+1318,7/5/2023,East,Electronics,Online,297.4,778.89,299.88,30,2.37
+1319,25/4/2023,North,Electronics,In-Store,2086.57,2200.84,-87.09,5,20.8
+1320,2/7/2023,North,Electronics,In-Store,2629.79,2940.71,282.72,95,23.54
+1321,5/2/2024,North,Office Supplies,Online,2945.16,3122.31,-15.92,71,24.79
+1322,5/6/2024,North,Furniture,Online,4686.09,4861.64,12.89,83,27.41
+1323,26/4/2024,East,Furniture,In-Store,3394.03,3626.27,59.43,31,26.4
+1324,24/7/2023,North,Electronics,Online,2458.26,2957.72,378.82,52,29.99
+1325,28/11/2024,West,Office Supplies,In-Store,4067.41,4142.14,31.92,88,7.32
+1326,22/6/2024,North,Office Supplies,In-Store,4757.61,5067.95,236.21,98,22.9
+1327,9/2/2024,North,Office Supplies,In-Store,208.12,295.28,-199.05,23,17.59
+1328,22/3/2024,East,Electronics,Online,4914.35,5033.88,-14.91,48,7.84
+1329,3/11/2023,South,Furniture,Online,522.05,769.85,97.13,40,29.46
+1330,30/6/2023,South,Electronics,In-Store,4090.5,4370.21,244.95,6,26.94
+1331,17/9/2023,South,Electronics,In-Store,1473.64,1640.1,135.94,38,3.86
+1332,7/7/2024,East,Electronics,In-Store,747.68,940.09,-28.4,41,0.78
+1333,11/1/2023,North,Furniture,Online,2255.29,2344.43,-81.53,27,20.65
+1334,26/3/2023,West,Furniture,Online,3255.39,3441.84,24.01,75,18.12
+1335,3/2/2023,West,Electronics,In-Store,1966.66,2451.61,396.88,69,28.07
+1336,30/1/2023,South,Electronics,In-Store,367.37,842.49,246.59,57,7.02
+1337,16/9/2024,North,Electronics,In-Store,3037.36,3238.06,133.59,17,2.53
+1338,28/5/2024,South,Electronics,In-Store,4521.78,4828.66,233.7,71,7.78
+1339,13/12/2023,North,Electronics,Online,1977.76,2437.08,310.32,91,0.57
+1340,13/3/2023,North,Electronics,In-Store,1160.03,1212.81,-47.38,47,1.08
+1341,25/12/2023,North,Furniture,In-Store,2268.63,2683.44,325.52,79,27.45
+1342,12/12/2023,South,Electronics,Online,336.98,813.75,276.1,13,10.56
+1343,7/5/2023,East,Electronics,In-Store,4120.39,4211.49,-111.17,11,12.32
+1344,13/11/2023,East,Electronics,Online,4149.07,4271.72,-128.21,90,0.55
+1345,18/10/2023,East,Office Supplies,Online,2981.2,3463.54,345.38,86,8.12
+1346,25/3/2024,South,Furniture,In-Store,1830.2,2122.09,251.43,92,24.14
+1347,8/4/2024,North,Furniture,Online,4018.94,4075.33,-40.24,24,18.46
+1348,3/2/2023,North,Electronics,Online,2817.97,2983.9,-128.47,93,22.61
+1349,1/10/2023,West,Furniture,Online,4147.07,4399.54,65.52,73,13.42
+1350,1/4/2024,North,Electronics,Online,3194.15,3555.96,143.08,4,9.29
+1351,3/1/2024,East,Furniture,Online,3943.59,4323.51,357.86,46,14.48
+1352,17/9/2024,South,Office Supplies,Online,3032.96,3530.9,332.84,18,9.69
+1353,25/4/2024,South,Furniture,In-Store,2129.29,2308.67,148.87,43,25.17
+1354,29/4/2023,East,Office Supplies,Online,4793.93,5086.13,112.82,80,8.93
+1355,21/2/2023,South,Furniture,Online,2751.46,3041.46,12.18,33,19.79
+1356,13/4/2024,East,Electronics,Online,3064.94,3297.48,-58.62,93,4.11
+1357,20/1/2023,West,Office Supplies,In-Store,1180.39,1306.51,-45.23,10,20.61
+1358,3/3/2024,South,Electronics,Online,3165.69,3655.55,341.56,73,27.4
+1359,17/11/2024,North,Furniture,In-Store,2900.88,3334.87,149.39,59,18.26
+1360,25/2/2024,South,Electronics,In-Store,1005.71,1279.96,65.64,31,16.8
+1361,11/10/2023,West,Electronics,In-Store,391.98,713.44,283.29,28,28.83
+1362,14/4/2024,North,Electronics,Online,3061.36,3213.63,1.87,60,18.82
+1363,1/12/2023,South,Electronics,In-Store,3842.09,4136.79,207.43,3,7.79
+1364,3/2/2024,South,Electronics,Online,2664.67,3027.41,211.19,55,8.77
+1365,18/11/2024,East,Furniture,In-Store,1211.19,1493.02,134.3,14,21.16
+1366,9/10/2023,North,Electronics,In-Store,3365.96,3861.59,312.63,58,22.06
+1367,2/12/2024,East,Electronics,Online,492.52,817.62,205.2,89,9.1
+1368,22/10/2024,West,Furniture,Online,2264.99,2481.93,150.94,15,10.36
+1369,23/5/2023,North,Electronics,Online,900.5,1297.97,236.43,2,29.73
+1370,20/2/2023,North,Furniture,In-Store,1003.85,1130.56,-125.75,24,3.06
+1371,15/3/2023,West,Furniture,Online,1091.24,1314.27,17.11,78,12.14
+1372,14/1/2023,North,Office Supplies,Online,1994.86,2200.99,91.39,64,1.87
+1373,10/3/2023,East,Furniture,Online,350.64,594.95,-37.64,71,24.63
+1374,13/5/2024,South,Electronics,In-Store,2049.19,2450.99,126.38,24,2.77
+1375,21/2/2023,North,Furniture,In-Store,2607.37,2875.25,189.26,27,20.22
+1376,21/8/2023,East,Electronics,In-Store,2468.14,2875.45,376.27,37,1.69
+1377,8/9/2024,South,Electronics,In-Store,1975.64,2285.06,81.85,94,20.19
+1378,17/1/2023,South,Furniture,Online,4211.82,4415.75,-47.8,91,25.29
+1379,17/8/2024,North,Electronics,Online,812.1,1226.59,123.49,39,11.96
+1380,25/7/2023,South,Furniture,In-Store,2577.91,2735.14,-111.92,63,15.66
+1381,28/3/2023,North,Office Supplies,Online,404,554.97,-37.18,79,12.05
+1382,23/5/2024,North,Office Supplies,Online,448.66,725.69,108.62,26,9.01
+1383,4/4/2024,West,Office Supplies,Online,2911.94,3079.32,139.58,65,24.1
+1384,2/10/2024,North,Electronics,Online,2873.49,2927.58,-34.97,4,8.16
+1385,20/6/2024,South,Electronics,Online,4402.36,4744.09,193.04,29,21.69
+1386,9/8/2024,North,Furniture,In-Store,2833.58,3113.57,84.01,1,6.19
+1387,25/7/2023,East,Electronics,Online,4802.98,5053.46,74.45,50,7.5
+1388,10/5/2023,North,Furniture,Online,338.6,823.74,257.2,86,10.09
+1389,1/7/2024,West,Furniture,Online,580.24,887.28,208.71,11,17.67
+1390,11/8/2024,South,Furniture,In-Store,315.92,754.46,260.35,74,13.63
+1391,24/12/2024,North,Electronics,Online,1007.86,1120.61,68.07,59,22.35
+1392,29/10/2023,North,Electronics,In-Store,2752.22,3058.36,170.31,62,6.41
+1393,29/9/2023,North,Electronics,In-Store,3263.3,3703.89,210.54,81,0.32
+1394,20/7/2024,South,Electronics,Online,323.37,635.77,98.25,36,23.3
+1395,6/9/2023,North,Office Supplies,In-Store,4735.26,5108.37,75.73,56,24.65
+1396,10/11/2024,East,Electronics,In-Store,4226.61,4444.03,119.61,90,1.78
+1397,18/9/2024,South,Electronics,In-Store,1553.4,1645,-67.89,21,18.33
+1398,10/11/2023,North,Electronics,In-Store,478.22,734.28,143.79,13,11.35
+1399,2/7/2024,South,Furniture,Online,932.45,1159.97,84.15,9,23.82
+1400,4/7/2024,East,Furniture,Online,722.03,1162.21,180.23,11,26.23
+1401,17/3/2023,North,Electronics,Online,704.09,863.89,-51.78,75,25.53
+1402,20/10/2024,North,Electronics,Online,2640.95,3125.98,217.95,70,23.32
+1403,4/1/2024,North,Electronics,In-Store,1304.65,1785.81,404.18,1,8.07
+1404,26/8/2024,East,Electronics,Online,1854.88,2016.31,-103.11,70,24.36
+1405,22/8/2023,South,Furniture,In-Store,4948.58,5155.2,169.89,77,16
+1406,15/10/2024,South,Furniture,In-Store,3453.14,3906.14,184.19,86,1.58
+1407,12/10/2023,East,Electronics,In-Store,4750.01,5234.99,372.84,56,13.71
+1408,8/1/2023,East,Electronics,In-Store,798.53,1048.08,141.47,31,28.26
+1409,22/10/2024,South,Office Supplies,Online,1972.48,2166.93,31.07,86,26.64
+1410,8/3/2023,East,Electronics,Online,2818.19,3104.93,3.35,37,3.07
+1411,22/8/2023,North,Furniture,Online,476.11,835.61,326.12,47,22.32
+1412,24/11/2024,North,Electronics,Online,120.52,293.58,54.44,91,24.17
+1413,24/11/2024,North,Electronics,Online,3385.13,3766.54,121.57,78,8.14
+1414,23/2/2024,North,Electronics,Online,3244.92,3318.17,-57.65,47,14.15
+1415,6/4/2024,South,Furniture,In-Store,2112.87,2185.05,-3.58,69,21.33
+1416,24/11/2023,West,Office Supplies,Online,2499.26,2723.09,84.89,58,13.17
+1417,3/8/2023,North,Electronics,Online,2135.67,2344.73,81.11,36,3.38
+1418,28/8/2023,North,Electronics,In-Store,217.62,409.65,-84.29,32,21.18
+1419,5/5/2024,South,Electronics,Online,1743.32,2014.28,37.62,98,27.35
+1420,3/7/2024,West,Electronics,Online,967.7,1162.03,32.9,64,19.57
+1421,31/7/2024,North,Electronics,In-Store,582.28,718.8,-160.22,71,23.21
+1422,30/7/2024,South,Electronics,In-Store,4787.93,4977.19,38.98,42,10.75
+1423,8/3/2023,North,Furniture,In-Store,3036.86,3525.57,452.4,48,5.5
+1424,27/12/2023,North,Electronics,Online,3670.42,3905.42,141.56,74,19.28
+1425,12/2/2023,West,Electronics,In-Store,1645.28,1895.4,108.02,81,9.83
+1426,6/2/2024,West,Office Supplies,In-Store,2026.42,2335.87,245.52,30,25.8
+1427,19/11/2023,North,Electronics,Online,1260.93,1753.43,207.18,21,3.68
+1428,10/10/2024,West,Office Supplies,In-Store,575.13,733.85,-76,60,13
+1429,14/9/2023,South,Electronics,In-Store,977.26,1333.84,261.46,13,11.9
+1430,27/3/2023,East,Office Supplies,Online,4007.82,4380.01,186.76,1,28.14
+1431,15/4/2023,South,Furniture,Online,3419.97,3743.27,101.29,65,4.59
+1432,9/7/2024,South,Office Supplies,In-Store,2779.95,2869.81,-193.7,33,0.3
+1433,27/3/2024,South,Office Supplies,In-Store,2427.94,2782.53,87.73,38,7.14
+1434,15/3/2023,South,Electronics,Online,4619.93,4698.77,-85.41,25,24.61
+1435,3/3/2023,North,Office Supplies,In-Store,456.4,774.66,81.36,26,6.28
+1436,26/5/2024,North,Electronics,Online,1474.94,1857.75,205.41,77,7.23
+1437,23/2/2023,North,Electronics,Online,1814.7,1959.64,-29.82,59,3.9
+1438,22/8/2024,East,Electronics,Online,3933.89,4362.62,376.6,92,21.46
+1439,30/5/2024,North,Furniture,In-Store,4963.32,5026.98,8.34,33,2.08
+1440,1/3/2023,South,Electronics,In-Store,1279.29,1709.01,261.45,41,9.94
+1441,3/3/2023,West,Furniture,Online,4384.11,4641.26,161.87,30,8.47
+1442,21/12/2024,North,Furniture,Online,4170.05,4317.96,122.02,57,16.65
+1443,1/10/2023,South,Furniture,Online,1200.82,1311.02,-112.19,49,21.91
+1444,28/9/2023,South,Office Supplies,In-Store,2056.73,2535.72,449.89,48,15.99
+1445,16/8/2024,East,Electronics,In-Store,2107.4,2190.1,-103.98,72,27.93
+1446,22/11/2024,North,Electronics,In-Store,4893.28,5032.87,-31.38,49,28.54
+1447,20/12/2024,South,Electronics,In-Store,986.37,1192.89,-84.75,47,10.84
+1448,3/7/2024,East,Electronics,In-Store,4015.87,4344.98,173.53,56,23.33
+1449,2/10/2023,West,Electronics,Online,1737.54,2032.7,257.35,65,22.16
+1450,2/3/2023,South,Electronics,Online,3681.26,3787.8,-67.93,12,26.79
+1451,21/7/2024,South,Electronics,Online,2158.05,2338.43,-75.13,69,13.44
+1452,12/2/2024,South,Office Supplies,In-Store,2933.96,3091.4,-141.68,88,15.91
+1453,6/11/2023,East,Furniture,In-Store,4179.8,4325.89,5.59,6,12.47
+1454,23/10/2024,South,Electronics,Online,4040.41,4275.42,125.33,89,25.51
+1455,23/3/2023,North,Furniture,In-Store,4345.47,4712.28,92.95,65,6.89
+1456,26/12/2023,West,Electronics,Online,392.12,539.97,74.3,25,7.19
+1457,9/1/2023,South,Electronics,Online,3491.05,3706.06,22.69,1,11.18
+1458,9/12/2023,South,Furniture,In-Store,785.94,1011.85,92.31,32,6.91
+1459,11/2/2023,North,Electronics,In-Store,2137.51,2626.92,457.91,3,16.83
+1460,28/3/2023,South,Electronics,In-Store,2788.08,3267.68,362.36,49,4.03
+1461,27/3/2023,North,Office Supplies,Online,2073.42,2483.48,315.8,19,9.61
+1462,18/4/2024,South,Office Supplies,Online,2646.1,2804.85,-53.36,60,27.4
+1463,28/6/2024,North,Furniture,In-Store,4982.98,5063.6,-205.04,29,12.28
+1464,1/3/2024,South,Furniture,Online,762.56,955.17,97.56,50,22.45
+1465,3/12/2024,West,Furniture,Online,3409.73,3579.79,-77.15,2,3.4
+1466,1/10/2023,North,Electronics,In-Store,2040.4,2318.07,242.17,73,7.43
+1467,28/7/2023,West,Electronics,Online,751.75,1151.73,229.31,56,24.22
+1468,26/9/2024,South,Electronics,In-Store,877.81,1314.06,396.5,17,22.89
+1469,13/6/2023,East,Electronics,In-Store,4751.44,5181.63,148.66,60,11.58
+1470,4/12/2024,East,Furniture,Online,4410.05,4621.9,-22.73,36,28.63
+1471,9/1/2023,South,Electronics,Online,4544.51,4903.77,155.03,61,27.32
+1472,9/12/2024,East,Office Supplies,In-Store,4958.51,5149.29,-59.91,17,28.87
+1473,1/2/2023,East,Office Supplies,In-Store,1120.75,1198.16,-123.9,49,12.84
+1474,12/10/2024,South,Furniture,In-Store,1841.65,2207.35,74.4,76,5.92
+1475,21/1/2024,North,Furniture,In-Store,3379.17,3433.59,-165.49,60,18.8
+1476,25/12/2024,South,Office Supplies,In-Store,2470.63,2704.76,-44.77,20,20.54
+1477,23/2/2023,East,Electronics,In-Store,2150.11,2348.33,33.42,50,3.76
+1478,9/2/2024,East,Furniture,Online,1853.28,2215.3,309.24,3,23.59
+1479,8/12/2024,East,Electronics,Online,3009.53,3404.34,226.92,43,0.54
+1480,17/1/2024,South,Furniture,Online,2920.41,3107.25,131.32,57,14.48
+1481,4/4/2024,East,Electronics,Online,891.14,1306.37,229.33,50,9.93
+1482,22/5/2024,North,Office Supplies,Online,2411.53,2593.79,27.16,68,22.21
+1483,28/11/2023,South,Office Supplies,Online,2812.01,3062.86,56.53,81,9.38
+1484,3/4/2024,North,Electronics,In-Store,2894.41,3271.57,354.35,50,24.8
+1485,2/3/2024,North,Electronics,Online,1129.53,1491.34,287.25,37,17.85
+1486,19/10/2024,North,Office Supplies,Online,3737.13,4231.45,336.75,46,23.82
+1487,3/2/2023,North,Electronics,Online,223.48,374.8,-134.82,42,29.68
+1488,25/7/2023,South,Office Supplies,Online,1838.68,2186.72,220.63,15,20.37
+1489,24/11/2024,North,Furniture,Online,3923.04,4247.4,185.54,33,29.55
+1490,11/10/2024,South,Electronics,Online,2863.08,3324.87,241.68,80,0.87
+1491,29/11/2023,North,Electronics,Online,1379.7,1500.06,-68.7,11,10.14
+1492,28/3/2024,North,Electronics,In-Store,3505.27,3893.58,284.61,20,3.24
+1493,22/7/2023,North,Furniture,In-Store,2880.22,3185.94,170.69,24,7.87
+1494,18/5/2023,North,Electronics,In-Store,4001.59,4175.19,92.64,64,25.17
+1495,5/12/2023,South,Furniture,In-Store,3701.62,3965.12,-26.99,80,0.97
+1496,15/9/2023,South,Electronics,Online,3089.53,3289.73,143.62,94,15.61
+1497,2/3/2024,South,Furniture,In-Store,2492.07,2802.76,186.58,98,17.01
+1498,26/2/2023,South,Office Supplies,In-Store,752.59,1202.64,422.82,65,16.83
+1499,12/12/2024,North,Office Supplies,Online,1380.53,1686.72,224.09,88,14.26
+1500,20/12/2024,East,Electronics,In-Store,2153.59,2487.87,95.75,88,23.72
+1501,24/5/2024,South,Office Supplies,Online,3036.57,3320.01,207.11,73,4.01
+1502,27/1/2024,South,Furniture,In-Store,2617.17,2690.19,30.6,86,9.32
+1503,14/8/2023,North,Furniture,In-Store,1512.1,1666.89,1.94,76,18.47
+1504,17/8/2024,North,Office Supplies,Online,131.68,403.08,248.61,17,20.73
+1505,14/5/2024,North,Electronics,In-Store,2531.57,2721.18,145.88,89,12.12
+1506,29/4/2023,North,Electronics,In-Store,1499.57,1631.36,-114.35,92,26.26
+1507,26/10/2024,South,Office Supplies,In-Store,3699.58,3976.44,40.85,61,12.46
+1508,23/8/2024,South,Electronics,Online,217.34,412.6,-80.98,15,12.08
+1509,24/11/2024,South,Office Supplies,In-Store,2965.66,3131.81,-93.11,94,1.09
+1510,13/6/2024,East,Office Supplies,Online,4713.22,4972.01,47.5,51,16.53
+1511,23/3/2024,East,Electronics,Online,954.61,1064.59,75.33,27,21.26
+1512,2/11/2023,East,Office Supplies,Online,2411.08,2878.57,228.29,86,3.43
+1513,11/11/2024,West,Electronics,In-Store,547.97,988.44,183.73,74,9.16
+1514,24/9/2024,North,Furniture,In-Store,3165.84,3534.27,124.69,61,23.44
+1515,3/2/2023,North,Furniture,In-Store,2797.61,2895.41,-64.57,58,10.98
+1516,20/1/2023,North,Office Supplies,In-Store,2096.09,2495.23,313.93,31,7.25
+1517,2/10/2023,South,Electronics,Online,2654.75,3068.33,156.89,91,20.17
+1518,14/8/2024,East,Electronics,Online,4493.22,4888.71,171.88,12,5.9
+1519,21/12/2024,North,Furniture,Online,1061.84,1163.12,-193.33,46,26.87
+1520,20/4/2023,West,Furniture,Online,210.57,550.33,276.17,31,3.17
+1521,9/3/2024,North,Furniture,Online,4322.16,4747.61,342.26,32,21.2
+1522,6/10/2023,West,Electronics,Online,2927.87,3237.68,230.51,32,14.99
+1523,9/12/2024,North,Electronics,Online,4464.23,4805.11,98.97,99,26.1
+1524,6/9/2024,North,Electronics,Online,3025.03,3281.29,183.93,53,3.79
+1525,3/9/2024,South,Office Supplies,Online,4069.79,4357.71,249.26,61,20.34
+1526,9/12/2023,North,Electronics,Online,2205.4,2270.87,-234.13,46,17.16
+1527,30/10/2023,North,Electronics,In-Store,3774.31,4111.84,310.58,85,14.4
+1528,19/7/2023,North,Office Supplies,In-Store,4573.9,4660.55,-167.22,74,14.74
+1529,11/2/2023,East,Electronics,In-Store,2903.4,3149.16,123.46,80,21.66
+1530,23/9/2024,South,Office Supplies,Online,985.85,1167.54,-73.96,7,28.13
+1531,16/8/2024,North,Furniture,Online,1417.11,1712.55,120.15,4,2.74
+1532,30/12/2024,South,Office Supplies,In-Store,1073.36,1183.4,-162.42,91,0.59
+1533,28/12/2024,East,Electronics,Online,1309.6,1670.84,81.91,52,24.17
+1534,10/2/2024,North,Electronics,Online,1601.44,2009.2,385.21,89,3.25
+1535,15/7/2024,South,Furniture,Online,2820.16,2943.67,82.39,31,29.6
+1536,20/11/2024,North,Office Supplies,Online,2981.16,3078.1,6.84,75,18.58
+1537,12/9/2024,North,Furniture,Online,2189.85,2305.33,-91.93,84,19.53
+1538,30/6/2023,South,Electronics,Online,3115.56,3560.27,175.99,36,5.97
+1539,25/11/2023,North,Furniture,In-Store,499.72,787.41,138.91,54,7.21
+1540,5/4/2023,South,Furniture,Online,530.16,790.43,70.32,54,19.78
+1541,27/11/2024,East,Furniture,Online,941.96,1039.98,25.24,17,27.29
+1542,18/3/2024,North,Furniture,In-Store,2638.58,2980.88,96.91,75,29.47
+1543,16/6/2023,South,Office Supplies,Online,1148.57,1589.17,149.75,30,5.94
+1544,5/5/2024,North,Furniture,Online,1488.09,1910.77,327.47,99,4.02
+1545,27/3/2024,West,Electronics,In-Store,2061.53,2393.25,173.17,22,1.69
+1546,19/9/2023,South,Electronics,Online,4078.14,4162.02,39.77,43,26.05
+1547,24/3/2023,East,Electronics,Online,167.92,268.5,-75.98,27,8.84
+1548,5/5/2024,South,Electronics,Online,3281.96,3354.15,-88.59,37,0.05
+1549,15/1/2024,North,Electronics,Online,3377.5,3543.37,105.43,46,6.71
+1550,17/7/2024,South,Electronics,Online,4013.41,4124.46,-32.73,35,10.21
+1551,15/1/2024,West,Electronics,In-Store,4670.49,4837.51,53.47,4,29.73
+1552,14/9/2024,South,Electronics,Online,198.68,421.96,57.17,80,15.71
+1553,7/2/2024,East,Office Supplies,Online,853.54,1327.88,290.36,80,6.14
+1554,14/2/2024,East,Office Supplies,Online,4442.24,4766.91,302.29,85,10.04
+1555,1/10/2024,North,Electronics,Online,2346.74,2772.48,192.66,26,9.91
+1556,22/10/2023,North,Office Supplies,In-Store,2866.49,3236.15,150.02,19,0.59
+1557,8/4/2023,South,Furniture,Online,3348.83,3449.46,-21.93,81,4.06
+1558,22/1/2023,South,Electronics,Online,3427.43,3808.59,346.34,45,20.86
+1559,5/7/2024,East,Electronics,Online,4665.53,4839.32,-57.59,26,3.61
+1560,28/3/2024,West,Furniture,Online,4985.05,5322.65,50.15,22,6.92
+1561,28/5/2024,North,Furniture,Online,3628.77,3832.2,116.19,58,10.52
+1562,5/6/2023,North,Furniture,In-Store,1507.38,2006.33,388.36,63,22.73
+1563,10/4/2023,East,Electronics,Online,4410.79,4579.39,97.13,28,17.47
+1564,11/1/2023,North,Electronics,Online,341.18,516.79,-5.93,65,20.67
+1565,13/9/2023,East,Electronics,Online,1232.3,1701.1,405.44,44,17.01
+1566,6/3/2024,South,Electronics,In-Store,4497.19,4558.28,-58.64,43,20.51
+1567,14/10/2023,South,Electronics,Online,1355.34,1718.85,148.35,37,0.09
+1568,16/11/2023,North,Electronics,In-Store,1181.19,1557.59,199.57,66,27.93
+1569,22/10/2024,South,Office Supplies,In-Store,776.81,1203.18,298.16,17,3.33
+1570,12/9/2023,South,Office Supplies,In-Store,4309.65,4798.15,350.83,40,12.19
+1571,11/1/2024,South,Electronics,Online,2550.29,3039.31,311.63,38,23.13
+1572,26/7/2024,North,Office Supplies,Online,3406.98,3486.35,57.73,85,13.06
+1573,17/10/2023,East,Electronics,In-Store,1271.43,1691.26,377.85,61,28.41
+1574,30/3/2024,East,Electronics,In-Store,3814.4,4155.24,74.09,9,14.03
+1575,21/9/2024,North,Electronics,In-Store,3824.03,4165.33,299.49,77,26.25
+1576,24/11/2024,North,Furniture,Online,1631.73,1739.49,-110.15,75,24.32
+1577,18/4/2023,North,Office Supplies,Online,2112.34,2454.92,64.97,61,29.43
+1578,7/11/2024,South,Furniture,Online,1127.48,1619.6,396.33,80,27.8
+1579,26/12/2023,South,Electronics,In-Store,4885.15,5345.47,336.58,16,26.94
+1580,8/7/2023,South,Furniture,Online,3263.45,3511.06,68.31,2,21.95
+1581,2/12/2023,North,Electronics,Online,4679.27,4747.25,-198.9,72,11.01
+1582,16/12/2024,North,Office Supplies,In-Store,1586.59,1799.62,-70.7,43,3.18
+1583,26/12/2023,South,Furniture,Online,3931.27,4353.15,194.8,42,20.66
+1584,28/8/2023,South,Electronics,In-Store,3852.71,4218.38,321.42,77,29.36
+1585,7/4/2024,West,Furniture,Online,3489.11,3745.81,49.34,57,21.8
+1586,25/6/2023,North,Furniture,Online,4831.63,4906.43,-60.09,81,27.86
+1587,25/2/2023,South,Electronics,Online,2028.42,2270.52,90.3,88,24.13
+1588,5/4/2023,South,Furniture,In-Store,740.51,1001.57,227.3,67,4.89
+1589,4/4/2023,South,Electronics,Online,3391.37,3859.22,394.35,30,7.48
+1590,21/4/2023,East,Furniture,Online,3673.62,4012.11,97.15,13,10.26
+1591,12/4/2023,South,Office Supplies,In-Store,2917.8,3108.04,43.13,19,5.05
+1592,12/4/2024,West,Office Supplies,Online,1113.41,1399.8,181.92,7,17.45
+1593,13/5/2023,North,Furniture,Online,2571.83,2651.55,-47.81,9,29.26
+1594,10/9/2023,North,Furniture,Online,1629.73,2117.39,228.43,83,22.84
+1595,16/10/2024,East,Electronics,Online,2194.59,2406.62,-17.69,54,12.7
+1596,12/12/2023,South,Furniture,In-Store,3261.57,3526.61,168.79,86,0.14
+1597,2/5/2024,North,Electronics,Online,3751.55,3961.43,156.98,82,9.4
+1598,6/5/2023,North,Electronics,Online,1237.9,1595.03,266.57,61,15.8
+1599,21/5/2023,North,Electronics,Online,2086.09,2434.09,70.19,87,9.73
+1600,30/1/2023,East,Electronics,In-Store,1418.89,1790.79,189.06,2,3.33
+1601,4/5/2023,North,Furniture,Online,1073.29,1243.95,1.29,50,13.28
+1602,23/7/2023,North,Electronics,Online,3938.6,4130.65,5.06,75,7.6
+1603,10/5/2023,North,Furniture,Online,4555.34,4661.7,-16.13,31,27.28
+1604,6/3/2023,North,Electronics,Online,1914.14,2259.12,98.99,33,3.05
+1605,30/3/2023,North,Electronics,Online,3781.27,3849.18,-98.61,78,1.47
+1606,3/12/2023,South,Furniture,Online,4495.28,4814.24,266.27,80,0.16
+1607,31/5/2023,North,Electronics,In-Store,4246.01,4687.37,385.22,11,9.84
+1608,23/9/2023,East,Electronics,Online,995.79,1446.66,280.55,33,19.81
+1609,3/1/2024,North,Furniture,In-Store,4785.83,5037.9,-30.17,7,21.91
+1610,18/5/2024,South,Electronics,In-Store,1945.71,2202.4,150.35,31,13.6
+1611,29/1/2023,East,Office Supplies,Online,1762.28,1846.92,-178.83,48,20.53
+1612,6/8/2024,South,Electronics,Online,405.91,757.75,117.89,47,10.8
+1613,3/4/2024,South,Electronics,Online,2482.25,2901.82,330.18,78,20.03
+1614,1/3/2023,North,Furniture,In-Store,634.17,794.26,129.91,92,1.22
+1615,29/9/2024,North,Electronics,Online,1317.85,1557.44,191.07,53,11.72
+1616,3/11/2024,South,Electronics,Online,1653.02,2080.5,203.5,80,23.73
+1617,14/2/2023,West,Electronics,Online,4063.25,4507.95,368.79,19,24.09
+1618,22/7/2023,South,Electronics,In-Store,4389.89,4549.32,35.47,81,21.48
+1619,11/8/2024,South,Office Supplies,In-Store,1582.08,1879.84,137.28,90,6.13
+1620,30/6/2024,East,Electronics,Online,4307.62,4444.24,-86.51,6,7.42
+1621,15/5/2023,South,Furniture,In-Store,4300.43,4396.28,44.15,49,29.88
+1622,2/6/2023,North,Office Supplies,Online,3846.79,4306.79,326.22,73,3.1
+1623,28/9/2023,South,Electronics,Online,818.81,1238.04,263.41,50,5.42
+1624,20/12/2023,West,Office Supplies,In-Store,3482.58,3874.6,220.59,81,3.9
+1625,27/3/2024,North,Electronics,Online,4730.62,4802.56,-177.2,95,9.83
+1626,27/9/2023,South,Office Supplies,Online,3444.45,3874.13,361.61,12,6.31
+1627,4/12/2023,North,Electronics,Online,1724.92,1972.04,0.93,23,14.93
+1628,29/6/2024,South,Furniture,In-Store,2552.84,2756.92,-9.93,54,14.28
+1629,27/1/2023,North,Electronics,In-Store,3264.05,3559.96,120.27,69,27.05
+1630,4/7/2023,South,Electronics,In-Store,2601.8,2692.91,-124.76,59,1.04
+1631,4/6/2024,East,Furniture,In-Store,687.77,1078.26,255.13,36,9.6
+1632,15/10/2024,North,Furniture,Online,1629.11,1941.21,253.35,3,17.9
+1633,9/1/2024,South,Electronics,Online,4031.74,4165.71,-72.44,58,18.14
+1634,24/1/2024,East,Electronics,Online,4320.95,4455.65,-32.21,88,14.4
+1635,20/3/2023,West,Furniture,Online,772.77,905.68,-66.11,55,24.47
+1636,23/11/2023,North,Furniture,Online,4766.7,4842.35,-38.99,57,1.88
+1637,24/1/2024,North,Office Supplies,In-Store,1711.23,2025.74,40.59,17,24.46
+1638,27/6/2023,North,Furniture,Online,3345.34,3773.5,243.7,39,14.84
+1639,16/7/2023,West,Office Supplies,Online,3783.94,3841.81,13.96,90,4.01
+1640,3/10/2023,West,Furniture,Online,4078.54,4150.59,-73.9,68,26.57
+1641,15/1/2023,South,Electronics,Online,4734.17,5041.92,75.97,55,19.48
+1642,24/8/2023,East,Electronics,In-Store,1633.31,2052.08,176.41,45,4.91
+1643,4/6/2023,South,Furniture,Online,4306.68,4503.71,38.54,76,1.01
+1644,28/8/2023,South,Furniture,Online,745.27,952.6,-63.2,1,4.23
+1645,29/3/2023,North,Electronics,In-Store,3554.7,3873.06,223.41,21,18.26
+1646,12/10/2024,East,Electronics,Online,3735.69,3909.09,38.43,83,5.38
+1647,9/3/2024,North,Office Supplies,Online,3420.84,3482.81,-209.64,21,6.77
+1648,10/5/2024,East,Furniture,Online,1336.34,1717.19,109.9,52,0.75
+1649,30/7/2024,East,Electronics,Online,4377.91,4709.45,119.54,82,21.69
+1650,30/12/2023,East,Electronics,In-Store,927.41,1238.75,50.83,43,24.31
+1651,5/3/2023,North,Electronics,In-Store,362.81,746.57,338.9,52,23.91
+1652,28/1/2024,North,Electronics,Online,3615.58,3969.43,91.65,67,3.83
+1653,4/3/2024,North,Electronics,In-Store,2429.83,2572.48,32.88,44,27.1
+1654,28/6/2024,North,Electronics,Online,4260.58,4469.2,138.69,32,20.17
+1655,12/11/2023,North,Furniture,Online,1978.65,2085.4,19.73,10,26.93
+1656,4/4/2023,West,Electronics,Online,924.57,1033.01,-28.59,64,13.41
+1657,27/7/2023,South,Office Supplies,Online,4198.57,4552.86,263.96,79,13.11
+1658,23/9/2023,North,Office Supplies,Online,2789.66,3226.03,326.61,69,23.54
+1659,16/4/2024,North,Electronics,In-Store,1027.06,1510.29,425.44,68,2.8
+1660,21/2/2024,South,Furniture,In-Store,3629.88,3962.64,229.83,28,15.63
+1661,17/9/2023,South,Electronics,Online,2604.46,2737.31,-47.39,53,25.09
+1662,21/12/2024,South,Office Supplies,Online,3061.13,3158.67,-46.18,51,24.91
+1663,18/3/2024,West,Electronics,Online,2358.4,2774.18,298.7,53,28.68
+1664,23/6/2023,South,Furniture,Online,4160.67,4471.11,81.43,4,20.95
+1665,16/3/2023,West,Furniture,Online,4164.86,4493.09,58.05,79,6.23
+1666,22/4/2023,East,Electronics,Online,3576.01,3977.67,169.76,17,0.61
+1667,29/6/2023,North,Electronics,In-Store,616.47,982.94,253.51,67,14.38
+1668,28/4/2023,West,Furniture,Online,4210.38,4635.89,197.07,74,15.41
+1669,17/5/2023,North,Furniture,Online,3387.96,3463.26,12.75,47,7.21
+1670,28/7/2023,East,Electronics,Online,3515.42,3901.8,329.89,56,3.74
+1671,7/5/2023,North,Furniture,Online,1878.62,2311.5,316.1,23,17.59
+1672,16/10/2024,East,Electronics,Online,4408.47,4587.23,-67.4,18,22.93
+1673,28/2/2023,East,Furniture,In-Store,3654.32,3992.52,249.22,1,29.79
+1674,18/1/2024,East,Electronics,Online,651.69,843.06,153.66,35,22.75
+1675,27/10/2023,East,Office Supplies,In-Store,2098.11,2579.2,424.21,64,23.81
+1676,18/12/2024,North,Electronics,Online,4443.26,4508.3,-195.41,58,18.49
+1677,23/3/2023,North,Electronics,Online,331.26,642.17,113.45,95,29.58
+1678,18/10/2023,South,Electronics,Online,4810.94,4935.87,34.03,59,19.2
+1679,8/12/2024,North,Electronics,In-Store,3427.9,3798.4,195.02,1,25.81
+1680,23/9/2024,South,Furniture,Online,3193.74,3322.89,-38.57,3,28.37
+1681,19/8/2024,North,Electronics,In-Store,1425.74,1581.66,-47.6,67,27.9
+1682,8/7/2023,West,Office Supplies,Online,1319.08,1591.55,187.18,37,11.44
+1683,5/5/2023,South,Electronics,In-Store,4716.09,5177.77,199.65,83,2.36
+1684,3/5/2024,East,Electronics,Online,1561.54,1706.81,38.65,29,5.16
+1685,9/11/2024,North,Electronics,In-Store,3899.98,4014.89,-99.45,89,1.78
+1686,11/2/2024,East,Electronics,Online,2026.3,2417.84,367.03,33,3.16
+1687,22/2/2024,West,Electronics,In-Store,782.34,1057.62,150.94,61,5.54
+1688,24/7/2023,South,Electronics,Online,152.5,612.8,341.82,93,10.23
+1689,15/7/2024,South,Electronics,Online,2766.86,2882.84,-56.2,90,16.31
+1690,17/5/2023,East,Electronics,Online,4881.32,5221.99,300.3,4,21.35
+1691,25/8/2023,North,Furniture,In-Store,1908.77,2063.57,-86.44,14,6.33
+1692,7/11/2023,South,Furniture,Online,1850.24,1970.78,39.56,91,20.18
+1693,6/1/2024,North,Electronics,In-Store,1786.05,2143.59,147.97,33,21.13
+1694,26/6/2023,North,Electronics,Online,2650.66,2967.82,72.26,22,16.76
+1695,25/3/2023,North,Office Supplies,Online,2259.26,2648.93,212.34,48,27.11
+1696,21/3/2024,North,Furniture,Online,4411.58,4600.84,-38.19,3,3.33
+1697,30/7/2023,North,Furniture,In-Store,2577.05,2828.64,46.27,87,5.31
+1698,29/2/2024,North,Electronics,In-Store,2588.01,2820.47,112.91,85,12.86
+1699,23/4/2023,West,Furniture,In-Store,778.02,1270.86,246.36,23,3.8
+1700,18/12/2023,South,Furniture,Online,4915.42,5096.93,78.99,68,16.99
+1701,24/1/2024,West,Furniture,In-Store,1324.87,1507.54,2.73,21,11.95
+1702,7/2/2023,South,Office Supplies,In-Store,459.48,669.03,-19.16,43,8.54
+1703,3/9/2023,North,Electronics,Online,3349.42,3653.49,177.96,95,5.1
+1704,9/4/2023,South,Electronics,In-Store,3017.3,3180.85,58.78,85,10.06
+1705,16/2/2023,South,Furniture,In-Store,2134.21,2596.09,313.26,26,18.24
+1706,23/12/2024,North,Office Supplies,In-Store,2168.74,2338.3,-79.47,41,17.27
+1707,24/8/2023,South,Electronics,In-Store,3946.81,4399.93,172.74,99,4.91
+1708,14/8/2024,North,Electronics,Online,1058.99,1155.55,-76.06,38,3.75
+1709,5/7/2023,South,Electronics,Online,4119.24,4464.69,140.24,88,0.8
+1710,12/5/2024,South,Electronics,In-Store,3278.86,3737,185.22,11,0.37
+1711,8/7/2024,North,Furniture,Online,2152.95,2278.89,78.35,29,26.39
+1712,10/3/2024,North,Furniture,In-Store,2344.34,2830.09,400.77,60,1.35
+1713,11/12/2023,East,Electronics,In-Store,1357.57,1611.37,35.31,67,21.94
+1714,28/10/2023,South,Electronics,In-Store,3785.36,4260.93,224.92,65,26.16
+1715,12/9/2023,North,Electronics,In-Store,2613.09,2967.66,94.6,61,2.94
+1716,9/11/2024,West,Electronics,Online,1672.19,1857.9,49.48,19,13.09
+1717,29/8/2024,North,Furniture,Online,3020.65,3155.39,89.72,46,28.87
+1718,5/12/2024,South,Office Supplies,Online,4979.1,5165.78,44.1,49,25.02
+1719,1/4/2023,West,Office Supplies,Online,2232.79,2324.65,7.25,22,14.69
+1720,17/6/2024,North,Electronics,Online,4611.39,4726.13,13.2,78,22.88
+1721,15/11/2024,North,Office Supplies,Online,1790.58,1887.68,-139.13,57,25
+1722,13/5/2023,North,Furniture,In-Store,368.19,608.51,199.17,14,10.44
+1723,18/2/2023,North,Furniture,In-Store,1100.79,1508.8,156.29,44,26.76
+1724,25/6/2024,North,Electronics,Online,2151.61,2265.23,-26.13,16,14.11
+1725,24/2/2024,South,Electronics,Online,1176.21,1284.85,-78.26,97,15.83
+1726,6/9/2024,North,Electronics,In-Store,101.11,440.65,294.44,77,29.99
+1727,13/4/2023,South,Electronics,Online,4583.51,4722.24,24.27,12,25.3
+1728,3/8/2024,West,Electronics,Online,4235.01,4328.93,48.8,55,10.85
+1729,28/5/2023,East,Electronics,Online,3737.23,3862.31,-164.15,51,0.31
+1730,30/4/2023,South,Electronics,Online,922.29,1387.97,219.65,39,18.79
+1731,30/4/2023,North,Furniture,Online,689.78,1109.44,270.96,33,21.12
+1732,17/8/2024,South,Electronics,In-Store,431.26,640.59,126.72,33,19.52
+1733,30/4/2024,South,Electronics,Online,3647.74,3992.86,63.75,29,29.04
+1734,17/1/2024,South,Office Supplies,Online,4651.16,4942.93,175.28,69,25.89
+1735,19/9/2023,North,Office Supplies,Online,2209.63,2564.34,289.63,70,13.46
+1736,2/10/2024,East,Furniture,Online,683.79,1040.99,179.51,31,1.89
+1737,14/10/2023,South,Office Supplies,In-Store,2610.72,2943.65,48.67,80,14.28
+1738,19/8/2024,North,Furniture,In-Store,1809.28,1979.03,148.68,31,20.68
+1739,17/11/2023,North,Office Supplies,In-Store,1936.64,2004.19,-19.12,89,18.23
+1740,3/10/2023,South,Electronics,Online,3144.52,3399.53,-27.76,46,16.14
+1741,4/12/2023,East,Electronics,In-Store,3621.72,4072.66,383.04,97,14.06
+1742,9/8/2023,East,Electronics,In-Store,641.96,948.23,254.56,77,8.81
+1743,29/6/2024,East,Electronics,In-Store,274.39,698.97,244.93,52,8.32
+1744,2/1/2024,North,Electronics,Online,4972.22,5468.45,234.91,10,15.01
+1745,19/6/2023,South,Furniture,Online,1240.37,1364,-29.96,88,4.82
+1746,18/10/2024,South,Furniture,Online,363.77,725.07,62.82,74,10.22
+1747,8/10/2023,North,Furniture,In-Store,1030.39,1383.82,143.26,41,9.72
+1748,1/2/2024,North,Electronics,Online,290.89,781.87,450.24,95,17.61
+1749,23/10/2024,East,Office Supplies,Online,2019.87,2513.39,195.53,77,2
+1750,31/3/2024,North,Furniture,In-Store,4031.77,4390.78,224.8,3,24.89
+1751,27/3/2023,South,Electronics,In-Store,1772.1,1931.73,59.16,59,16.87
+1752,17/11/2024,North,Furniture,In-Store,2276.5,2685.85,233.14,52,20.12
+1753,3/4/2024,North,Electronics,Online,3410.38,3508.54,-7.05,34,21.09
+1754,2/9/2023,North,Electronics,In-Store,2593.58,2994.89,357.1,49,8.74
+1755,12/4/2023,West,Office Supplies,Online,4321.08,4780.67,439.19,28,14.11
+1756,2/8/2024,East,Electronics,Online,4343.57,4565.85,76.4,83,28.69
+1757,28/3/2024,West,Electronics,Online,148.56,482.35,79.47,87,23
+1758,25/1/2024,South,Office Supplies,Online,3912.43,4155.99,63.31,96,29.09
+1759,14/10/2024,North,Furniture,Online,2357.59,2604.58,-52.79,13,22.39
+1760,29/7/2024,South,Electronics,In-Store,4945.32,5134.99,89.35,97,5.27
+1761,21/4/2023,South,Electronics,Online,2467.84,2860.8,294.43,98,1.94
+1762,16/8/2023,East,Electronics,In-Store,4935.79,5407.07,406.55,97,17.33
+1763,1/7/2023,North,Furniture,Online,3797.39,4270.73,407.4,69,10.73
+1764,27/6/2024,South,Electronics,Online,1318.16,1446.81,28.8,67,8.26
+1765,25/1/2023,North,Electronics,Online,2738.14,3181.77,201.63,61,24.22
+1766,21/2/2024,North,Office Supplies,Online,4961.46,5343.3,108.23,60,11.01
+1767,10/7/2024,East,Furniture,Online,4301.9,4465.68,-129.24,71,9.51
+1768,2/10/2024,South,Electronics,Online,577.1,657.38,-4.76,24,25.5
+1769,7/9/2023,North,Furniture,Online,3561.22,3731.82,-96.16,63,25.39
+1770,22/8/2024,North,Furniture,Online,1793.34,2253.83,348.58,86,10.69
+1771,22/3/2023,South,Electronics,Online,134.21,469.14,283.33,61,24.97
+1772,9/9/2024,East,Electronics,In-Store,2077.06,2451.53,110.86,23,25.52
+1773,4/4/2023,East,Office Supplies,Online,1250.3,1416.02,-32.39,30,12.72
+1774,18/10/2023,West,Electronics,In-Store,4112.46,4486.18,307.6,60,1.99
+1775,5/8/2024,East,Furniture,In-Store,1752.92,1815.57,-77.7,18,0.05
+1776,20/4/2023,North,Electronics,In-Store,4154.87,4373.76,118.46,96,15.7
+1777,17/6/2023,South,Electronics,In-Store,102.93,434.97,105.74,56,10.32
+1778,11/6/2024,South,Electronics,Online,1608.31,1724.05,-31.22,53,29.91
+1779,9/6/2024,North,Electronics,In-Store,1281.71,1702.06,123.35,7,23.17
+1780,13/4/2024,East,Electronics,In-Store,1244.48,1400.24,120.43,97,22.84
+1781,21/5/2024,North,Electronics,Online,434.11,777.64,224.13,69,28.66
+1782,1/2/2024,West,Office Supplies,Online,1016.91,1249.25,77.41,92,26.63
+1783,3/7/2023,South,Office Supplies,Online,2822.19,3140.41,157.34,72,9.55
+1784,10/9/2023,South,Furniture,In-Store,1527.67,1626.02,-10.11,79,4.98
+1785,13/5/2023,South,Office Supplies,In-Store,2145.23,2202.84,-166.58,52,22.38
+1786,25/10/2024,East,Electronics,Online,1946.65,2405.95,194.37,4,11.35
+1787,1/3/2024,South,Office Supplies,Online,4391.93,4563.26,-111.51,34,14.2
+1788,20/10/2023,South,Electronics,Online,4535.97,4954.82,173.42,69,18.91
+1789,4/12/2023,North,Office Supplies,Online,2515.49,3015.2,241.55,33,27.24
+1790,22/11/2024,South,Office Supplies,In-Store,1717.76,1862.9,-29.01,69,12.57
+1791,22/4/2023,North,Furniture,Online,623.32,792.65,-81.92,38,23.5
+1792,3/3/2024,East,Office Supplies,Online,4771.67,5119.96,243.31,98,8.05
+1793,5/1/2024,South,Furniture,Online,395.11,879.56,352.88,26,20.94
+1794,22/3/2024,South,Electronics,In-Store,1558.49,2020.61,353.38,1,0.05
+1795,14/1/2023,North,Electronics,Online,1560.52,1836.81,125.42,4,26.15
+1796,28/9/2024,North,Furniture,In-Store,1669.97,2077.77,307.84,39,0.91
+1797,11/11/2024,East,Electronics,Online,905.01,1016.1,-178.16,54,21.38
+1798,17/2/2024,North,Furniture,Online,3937.49,4427.34,382.25,90,1.39
+1799,23/5/2024,North,Office Supplies,Online,700.24,1184.2,436.51,33,7.99
+1800,4/11/2024,North,Electronics,Online,3211.04,3334.72,-43.83,33,14.92
+1801,31/5/2024,West,Furniture,Online,706.85,891.59,148.75,72,12.6
+1802,22/4/2023,East,Office Supplies,In-Store,445.62,540.69,44.12,20,5.76
+1803,25/2/2024,North,Office Supplies,In-Store,4556.2,4728.47,90.84,16,10.01
+1804,18/3/2024,North,Office Supplies,In-Store,1031.63,1448.81,267.16,21,21.83
+1805,6/11/2023,North,Furniture,Online,4124.13,4344.37,78.93,45,20.08
+1806,21/6/2024,East,Office Supplies,In-Store,2768.69,2858.47,-154.13,90,2.15
+1807,13/11/2024,South,Furniture,Online,481.5,685.5,-23.05,87,22.42
+1808,6/11/2024,North,Electronics,Online,4781.7,5273.32,352.25,82,1.59
+1809,26/11/2023,North,Electronics,Online,1310.11,1643.47,219.92,62,16.29
+1810,24/3/2023,North,Furniture,Online,4312.26,4549.53,128.66,31,7.8
+1811,19/12/2024,South,Electronics,In-Store,927.17,1052.11,-111.78,42,17.63
+1812,4/9/2024,East,Furniture,Online,4284.32,4778.1,459.2,12,7.84
+1813,2/4/2023,North,Furniture,Online,164.82,584.2,395.79,65,29.55
+1814,3/11/2024,North,Electronics,In-Store,2607.72,2784.38,-66.09,73,9.29
+1815,27/9/2024,North,Furniture,Online,3870.27,3951.8,-72.07,3,7.26
+1816,14/1/2024,West,Furniture,Online,4680.5,4755.98,18.83,90,8.35
+1817,7/3/2024,North,Electronics,Online,4555.09,4659.26,18.21,9,26.89
+1818,19/10/2023,East,Electronics,In-Store,4116.16,4427.51,30.25,51,19.09
+1819,9/2/2023,South,Electronics,In-Store,4452.14,4920.08,207.28,16,21.92
+1820,2/9/2023,North,Electronics,Online,1076.18,1349.71,54.79,88,27.54
+1821,9/8/2024,North,Office Supplies,Online,1492.5,1921.83,274.31,78,27.36
+1822,4/1/2023,North,Electronics,Online,1515.95,1766.6,84.96,3,22.17
+1823,1/9/2023,South,Furniture,In-Store,1947.56,2316.42,75.79,98,5.93
+1824,18/10/2023,East,Electronics,Online,2027.27,2406.61,88.92,97,25.3
+1825,28/1/2024,South,Electronics,Online,2768.32,2896.6,48,24,6.11
+1826,2/11/2024,South,Office Supplies,Online,883.41,1095.96,-34.56,73,22.29
+1827,10/9/2023,North,Furniture,Online,3487.11,3823.9,261.56,13,20.57
+1828,11/9/2023,West,Electronics,Online,921.08,1002.89,2.02,2,22.77
+1829,22/6/2024,East,Electronics,In-Store,1620.51,1833.2,3.38,71,15.98
+1830,27/11/2023,North,Electronics,Online,2566.39,2857.05,157.26,21,19.16
+1831,13/6/2023,West,Electronics,Online,4002.56,4500.86,217.47,19,28.6
+1832,27/11/2023,South,Furniture,In-Store,3723.4,3986.94,218.62,89,3.03
+1833,13/4/2023,South,Electronics,In-Store,3263.12,3680.35,254,47,9.27
+1834,9/5/2023,East,Electronics,Online,863.29,1107.72,-32.76,22,18.34
+1835,30/12/2023,East,Electronics,Online,2780.52,3188.9,135.23,75,28.92
+1836,2/11/2023,South,Office Supplies,Online,528.49,846.43,254.11,33,2.87
+1837,29/10/2024,North,Office Supplies,In-Store,1949.08,2398.05,326.31,32,0.68
+1838,22/9/2023,North,Electronics,Online,2126.23,2361.15,41.57,64,1.67
+1839,28/2/2024,West,Furniture,In-Store,295.08,617.02,257.31,85,1.57
+1840,6/4/2024,North,Electronics,In-Store,1442.54,1776.05,42.46,39,27.23
+1841,10/1/2023,North,Electronics,Online,4782.68,5020.5,-38.31,84,21.64
+1842,29/4/2024,South,Furniture,Online,4772.8,4887.74,48.19,72,20.31
+1843,10/5/2023,South,Office Supplies,Online,1826.4,1918.5,38.18,42,15.68
+1844,2/12/2024,South,Office Supplies,Online,311.19,368.69,13.59,9,23.46
+1845,19/4/2023,West,Furniture,Online,977.57,1420.66,168.45,25,4.67
+1846,30/10/2023,North,Electronics,In-Store,2021.87,2178.28,82.2,89,11.76
+1847,4/3/2023,North,Furniture,In-Store,4744.12,4889.3,8.62,97,14.7
+1848,28/12/2024,North,Electronics,Online,791.88,1173.1,235.54,2,3.31
+1849,2/1/2024,East,Furniture,In-Store,3841.23,4035.24,6.29,19,12.59
+1850,10/3/2024,South,Electronics,Online,632.54,910.26,237.63,20,9.5
+1851,18/2/2023,North,Furniture,Online,4908.16,5031.29,39.64,93,1.07
+1852,1/7/2024,East,Electronics,Online,1969.92,2451.81,201.07,70,4.1
+1853,3/6/2023,East,Electronics,In-Store,3898.65,4331.86,158.86,17,22.92
+1854,17/10/2024,East,Office Supplies,In-Store,1778.7,2217.41,199.95,89,0.54
+1855,30/5/2023,West,Electronics,In-Store,3175.58,3408.63,207.62,68,28.03
+1856,20/5/2023,North,Furniture,Online,1040.88,1433.94,281.5,94,2.59
+1857,27/1/2023,East,Electronics,Online,815.5,930.24,-81.09,84,23.98
+1858,11/12/2023,South,Electronics,Online,4696.51,4750.39,-43.17,3,26.96
+1859,17/2/2024,East,Electronics,Online,4596.47,4655.46,-215.69,87,28.23
+1860,17/2/2023,East,Electronics,In-Store,4448.6,4762.57,116.48,51,26.02
+1861,20/7/2024,East,Office Supplies,In-Store,3164.62,3419.55,214.8,82,8.63
+1862,27/11/2023,South,Electronics,In-Store,4060.51,4343.62,8.59,26,9.99
+1863,18/1/2024,North,Office Supplies,Online,438.28,491.64,-234.81,56,12.8
+1864,18/11/2023,South,Furniture,Online,1740.47,1980.68,198.45,64,4.18
+1865,20/10/2023,West,Electronics,Online,1637.15,2010.28,204.07,8,0.67
+1866,13/2/2024,West,Furniture,Online,3214.66,3463.87,144.27,81,26.07
+1867,24/4/2023,North,Furniture,Online,1844.19,2223.69,249.51,95,16.62
+1868,13/5/2023,North,Furniture,In-Store,827.68,982.54,84.56,37,18.26
+1869,21/9/2024,North,Electronics,In-Store,3022.69,3438.6,234.05,97,27.81
+1870,21/11/2024,East,Electronics,Online,4090.48,4405.27,26.56,27,19.95
+1871,30/9/2023,East,Office Supplies,Online,1972.41,2117.25,-16.02,45,20.73
+1872,17/7/2023,North,Office Supplies,Online,748.12,904.64,113.3,4,23.61
+1873,15/4/2024,South,Office Supplies,Online,1063.77,1396.38,139.01,86,3.49
+1874,26/10/2023,East,Electronics,In-Store,1263.67,1687.14,308.21,90,10.8
+1875,19/1/2023,East,Furniture,Online,1569.5,1806.53,-22.63,96,29.05
+1876,24/4/2023,South,Electronics,Online,3249.7,3415.94,24.53,88,27.69
+1877,6/6/2024,South,Electronics,Online,3044.63,3484.79,366.16,99,26.52
+1878,26/4/2024,South,Electronics,In-Store,3510.79,3861.96,277.66,37,13.56
+1879,20/1/2023,North,Furniture,Online,1876.26,2127.9,16.39,96,25.72
+1880,12/6/2023,South,Electronics,Online,4137.59,4407.15,175.2,71,1.45
+1881,18/6/2023,South,Electronics,Online,1100.03,1241.95,-92.91,33,4.46
+1882,5/5/2024,East,Office Supplies,In-Store,2398.3,2730.36,254.41,31,12.42
+1883,15/1/2023,South,Electronics,In-Store,4024.6,4236.03,101.36,55,14.5
+1884,17/3/2023,East,Electronics,Online,982.78,1480.82,347.7,12,7.91
+1885,6/8/2024,North,Electronics,In-Store,638.33,904.41,-18.01,11,10.69
+1886,11/5/2023,South,Office Supplies,In-Store,4430.05,4698.7,-12.23,88,4.88
+1887,21/4/2024,North,Furniture,In-Store,1780.36,2084.99,226.71,72,14.67
+1888,23/6/2023,North,Electronics,In-Store,3450.96,3913.5,342.24,32,23.82
+1889,14/3/2023,East,Office Supplies,In-Store,224.21,634.58,348.54,57,19.84
+1890,27/6/2023,West,Office Supplies,Online,3481.23,3734.24,90.21,38,3.23
+1891,11/6/2024,North,Electronics,In-Store,1648.9,2022.31,224.45,60,14.63
+1892,16/9/2024,South,Furniture,Online,373.13,686.94,41.6,86,20.93
+1893,29/8/2024,East,Furniture,In-Store,3088.08,3359.65,-8.83,98,15.9
+1894,17/10/2023,North,Furniture,Online,1279.94,1416.48,9.14,19,11.75
+1895,2/5/2024,South,Electronics,In-Store,1995.36,2254.13,101.08,84,18.66
+1896,30/5/2023,East,Office Supplies,In-Store,494.85,655.47,-110.33,56,29.06
+1897,2/8/2023,South,Furniture,Online,821.1,1282.78,215.8,14,2.85
+1898,16/10/2024,North,Electronics,In-Store,1560.09,1761.02,179.91,33,11.7
+1899,10/1/2023,North,Electronics,Online,539.82,1018.34,368.9,10,12.2
+1900,4/3/2023,East,Electronics,In-Store,4563.05,4852.92,151.77,80,17.31
+1901,1/6/2023,South,Electronics,Online,129.63,463.82,249.87,64,4.57
+1902,20/1/2023,North,Furniture,Online,2470.92,2765.24,218.44,64,5.3
+1903,13/5/2023,East,Electronics,In-Store,703.91,812.13,77.64,62,8.56
+1904,1/3/2024,North,Electronics,Online,1607.63,1826.75,18.98,68,28.68
+1905,4/11/2023,East,Furniture,In-Store,4637.69,4732.31,1.12,91,22.02
+1906,13/10/2024,North,Electronics,Online,892.3,1222.63,295.67,92,19.85
+1907,19/8/2024,West,Office Supplies,Online,4832.58,5083.67,166.42,43,24.51
+1908,7/9/2023,North,Electronics,Online,1108.39,1508.48,155.55,80,3.83
+1909,9/7/2023,North,Electronics,Online,3733.67,3882.88,-109.21,59,25.78
+1910,5/10/2023,North,Electronics,Online,2778.72,2902.77,-31.21,52,17.84
+1911,6/3/2024,North,Electronics,Online,4433.95,4666.8,96.35,97,10.06
+1912,15/7/2023,East,Electronics,Online,2814.57,3281.53,173.16,19,24.48
+1913,31/3/2024,West,Furniture,Online,2719.34,3089.03,293.53,21,24.08
+1914,26/10/2023,North,Office Supplies,In-Store,1057.74,1296.26,158.22,22,25.37
+1915,7/2/2024,South,Electronics,In-Store,914.52,1197.29,181.05,9,3.47
+1916,15/11/2023,East,Furniture,Online,4590.8,4678.7,19.53,9,29.08
+1917,3/8/2023,East,Furniture,In-Store,1706.41,2199.47,366.84,73,28.79
+1918,23/11/2024,South,Office Supplies,Online,1923.2,2273.08,74.85,27,10.72
+1919,11/7/2024,North,Electronics,In-Store,3823.14,4001.57,-13.87,17,1.98
+1920,13/4/2023,South,Electronics,In-Store,1760.24,2073.85,178.26,44,5.01
+1921,25/9/2024,South,Electronics,In-Store,4765.11,4864.38,-182.37,45,29.78
+1922,22/12/2023,North,Furniture,Online,3715.85,4200.48,451.06,8,16.89
+1923,15/10/2024,South,Office Supplies,In-Store,3027.4,3156.05,49.77,80,10.7
+1924,6/8/2024,North,Electronics,Online,4416.39,4758,163.16,18,8.65
+1925,7/11/2023,East,Electronics,In-Store,343.07,503.52,-31.9,33,7.71
+1926,17/1/2023,North,Office Supplies,Online,1359.61,1732.51,341.82,1,19.92
+1927,16/7/2023,South,Office Supplies,In-Store,2378.68,2778.25,266.72,76,12.58
+1928,31/1/2024,South,Office Supplies,In-Store,1212.19,1565.23,151.28,6,28.96
+1929,7/4/2024,South,Furniture,In-Store,3745.14,4071.66,111.06,41,20.52
+1930,8/7/2023,North,Electronics,Online,4604.12,5055.73,252.93,55,23.76
+1931,12/4/2023,South,Furniture,In-Store,2176.47,2261.85,-24.38,5,8.78
+1932,1/9/2024,South,Furniture,Online,1776.45,1975.36,152.72,59,2.38
+1933,19/12/2024,South,Electronics,In-Store,4811.6,4973.33,22.14,80,14.63
+1934,19/1/2024,South,Furniture,Online,2279.78,2774.39,438.56,18,9.44
+1935,6/5/2023,South,Furniture,Online,2496.34,2721.57,-60.1,49,6.06
+1936,18/7/2023,East,Electronics,Online,1823.08,2202.76,226.63,82,28.58
+1937,14/1/2023,North,Furniture,Online,4556.79,4914.92,249.3,65,13.32
+1938,29/10/2024,East,Furniture,Online,2887.88,3033.32,-89.13,83,5.24
+1939,27/3/2023,South,Office Supplies,Online,3834.66,3992.21,-1.88,54,5.96
+1940,25/2/2024,North,Electronics,Online,4077.85,4254.43,69.77,61,8.42
+1941,20/7/2023,North,Electronics,In-Store,1775.06,2010.07,-12.34,8,29.98
+1942,9/2/2024,North,Furniture,In-Store,2225.1,2380.55,-107.35,3,8.04
+1943,20/4/2024,East,Electronics,Online,4257.51,4316.35,-149.6,25,9.86
+1944,28/8/2024,East,Furniture,Online,1879.95,2325.68,412.58,69,19.78
+1945,31/5/2023,East,Furniture,Online,3990.28,4474.8,305.95,55,8.82
+1946,9/1/2023,South,Electronics,Online,4710.86,4914.57,-30.01,40,6.47
+1947,10/4/2023,South,Furniture,In-Store,3153.73,3356.06,144.11,83,4.76
+1948,19/10/2024,North,Furniture,In-Store,3733.97,3787.16,-30.84,82,9.38
+1949,29/9/2024,North,Electronics,Online,4044.98,4401.09,89.01,50,3.18
+1950,12/3/2024,South,Office Supplies,Online,4240.69,4662.14,395.82,95,0.56
+1951,14/3/2024,North,Office Supplies,Online,2035.76,2151.73,-114.79,33,24.14
+1952,30/4/2024,North,Furniture,In-Store,351.19,473.04,-30.81,18,4.14
+1953,9/5/2023,South,Furniture,In-Store,2069.19,2474.73,260.44,57,23.28
+1954,29/10/2024,East,Electronics,Online,3401.41,3728.74,305.34,16,23.93
+1955,2/11/2023,West,Office Supplies,Online,2306.72,2376.91,-179.24,80,16.14
+1956,7/10/2023,West,Furniture,In-Store,3769.92,4100.07,209.4,38,9.29
+1957,14/1/2024,South,Furniture,In-Store,1849.21,2038.22,17.6,41,4.35
+1958,4/2/2023,South,Office Supplies,Online,3210.25,3426.18,6.29,7,22.1
+1959,2/5/2023,South,Electronics,Online,1013.46,1409.84,179.64,78,18.04
+1960,22/6/2024,East,Office Supplies,Online,3771.91,4186.83,127.25,53,19.66
+1961,2/3/2023,North,Electronics,Online,2773.91,3004.07,61.38,63,0.26
+1962,16/3/2024,South,Electronics,Online,1099.92,1576.14,344.3,89,27.83
+1963,29/6/2023,East,Electronics,Online,1530.36,1763.27,-54.13,32,1.99
+1964,12/10/2023,North,Office Supplies,Online,3768.18,4165.51,197.54,38,11
+1965,30/7/2023,South,Office Supplies,Online,2464.75,2732.49,164.26,22,12.08
+1966,17/9/2023,South,Furniture,In-Store,1158.55,1612.44,398.48,16,0.04
+1967,8/6/2024,North,Furniture,Online,4839.63,5298.12,202.57,52,14.91
+1968,5/8/2023,North,Furniture,Online,3604.11,3693.45,-32.07,29,22.58
+1969,18/2/2024,North,Office Supplies,Online,4789.96,5261.38,266.49,16,24.7
+1970,14/12/2023,North,Electronics,Online,2192.81,2614.3,269.66,76,26.38
+1971,29/4/2024,North,Electronics,In-Store,2427.99,2834.08,330.39,17,14.63
+1972,14/11/2024,East,Electronics,Online,4499.98,4640.39,-48.06,64,18.92
+1973,18/6/2024,North,Furniture,Online,2672.74,3085.04,375.31,91,2.39
+1974,6/6/2023,South,Furniture,In-Store,3565.67,3998.23,296.82,89,14.64
+1975,23/1/2023,North,Electronics,Online,1335.65,1515.77,7.07,13,4.64
+1976,11/7/2023,West,Electronics,In-Store,2288.96,2767.48,336.43,72,11.09
+1977,10/3/2024,North,Office Supplies,Online,704.9,777.34,-157.19,56,9.88
+1978,7/2/2023,South,Electronics,Online,1109.3,1226.76,-134.36,5,12.71
+1979,29/12/2023,East,Furniture,Online,104.62,396.53,55.96,12,17.15
+1980,11/3/2024,East,Office Supplies,Online,292.4,601.51,278.24,41,27.09
+1981,1/9/2023,North,Electronics,In-Store,4888.69,5229.01,265.96,3,11.83
+1982,16/7/2024,East,Electronics,In-Store,1287.53,1345.17,-112.61,99,29.43
+1983,19/3/2023,South,Furniture,Online,3350.22,3832.39,200.42,33,22.77
+1984,24/2/2023,South,Office Supplies,Online,4211.59,4281.65,-183.73,86,15.34
+1985,15/6/2024,North,Furniture,In-Store,2798.24,2912.62,-141.53,50,19.32
+1986,28/12/2023,North,Office Supplies,In-Store,850.41,906.72,-48.59,56,3.07
+1987,17/5/2024,East,Electronics,Online,3667.77,3972.86,164.84,9,25.34
+1988,14/11/2023,South,Furniture,Online,3041.23,3510.75,317.72,82,17.47
+1989,29/6/2023,South,Furniture,Online,3683.13,4032.81,285.62,50,29.58
+1990,20/8/2024,East,Office Supplies,In-Store,3871.76,4291.96,391.5,29,19.09
+1991,6/8/2024,East,Electronics,Online,4879.51,4935.49,-229.15,39,25.02
+1992,22/5/2024,North,Office Supplies,Online,2910.46,3204.37,206.51,91,23.99
+1993,18/7/2023,South,Furniture,In-Store,1774.04,2030.84,169.61,45,10.36
+1994,6/3/2024,North,Electronics,Online,3277.48,3552.02,231.19,17,7.79
+1995,21/9/2023,East,Electronics,Online,435.36,517.86,-197.48,56,12.91
+1996,8/3/2023,South,Office Supplies,Online,4497.25,4855.25,175.67,98,14.02
+1997,31/10/2024,West,Electronics,Online,684.97,961.42,69.68,46,7.2
+1998,10/4/2023,North,Electronics,Online,1706.43,2100.75,119.08,67,26.84
+1999,24/11/2024,North,Electronics,Online,4097.15,4365.53,151.61,69,16.28
+2000,22/11/2023,North,Office Supplies,Online,3026.83,3144.05,-76.8,14,29.35
